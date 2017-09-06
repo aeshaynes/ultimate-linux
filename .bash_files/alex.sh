@@ -1,6 +1,0 @@
-alias push="bash /home/aeshaynes/bash_configs/syncToServer.sh"
-alias gohome="ssh jump.aeshaynes.com"
-alias hello="echo hello"
-alias bal="ssh 35.190.207.68"
-alias pf="ssh 10.0.0.1"
-alias c01="ssh vpsc01.mx3ak.com"
