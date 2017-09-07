@@ -103,14 +103,3 @@ alias gs="git status"
 alias ga="git add"
 alias gc="git commit"
 alias gp="git pus"
-
-
-######################################################
-#Barn House
-#####################################################
-
-alias dock="ssh 10.100.0.109"
-alias pve="ssh 10.100.0.104"
-alias pihole="ssh 10.100.0.106"
-alias router="ssh 10.0.0.1"
-alias dockps="dock docker ps"
